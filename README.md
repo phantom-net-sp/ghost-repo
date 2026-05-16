@@ -1,4 +1,4 @@
-# Projeto Privado - Backup
+# Projeto Privado - Backup FORK
 
 Este repositório contém apenas arquivos de configuração pessoal e scripts de automação simples.
 Nada de interessante para ver aqui por enquanto.
